@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on @UZABASE
+
+![kits's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkitsunai&count_private=true&show_icons=true&theme=radical)
