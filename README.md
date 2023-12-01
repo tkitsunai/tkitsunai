@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on @UZABASE
 
-![kits's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkitsunai&count_private=true&show_icons=true&theme=radical)
+<p align="left"> 
+  <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=tkitsunai&count_private=true&show_icons=true&theme=radical" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkitsunai&layout=compact&theme=radical&hide=C%23,html,css" />
+</p>
