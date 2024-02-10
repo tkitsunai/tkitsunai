@@ -1,4 +1,4 @@
-### Hello 👋, I'm tkitsunai 👋
+### Hello 👋, I'm kits 👋
 
 #### I ❤
 * Open Source
