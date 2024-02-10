@@ -1,23 +1,12 @@
-### Hi there 👋
+### Hello 👋, I'm tkitsunai 👋
 
-<!--
-**tkitsunai/tkitsunai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I ❤
+* Open Source
+* [Go](https://golang.org)
+* Software Architecture
 
-Here are some ideas to get you started:
+#### I'm working on
+- @UZABASE (currently)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on @UZABASE
-
-<p align="left"> 
-  <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=tkitsunai&count_private=true&show_icons=true&theme=radical" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkitsunai&layout=compact&theme=radical&hide=C%23,html,css" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkitsunai&count_private=true&show_icons=true&hide=C%23,html,css)
+![tkitsunai's github stats](https://github-readme-stats.vercel.app/api?username=tkitsunai&show_icons=true&count_private=true&line_height=40)
