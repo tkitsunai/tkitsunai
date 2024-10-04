@@ -8,9 +8,6 @@
 #### Recently, I'm really into...
 * TypeScript
 
-#### I'm working on
-- @UZABASE (currently)
-
 #### GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkitsunai&count_private=true&show_icons=true&hide=C%23,html,css)
