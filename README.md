@@ -4,8 +4,6 @@
 * Open Source
 * [Go](https://golang.org)
 * Software Architecture
-
-#### Recently, I'm really into...
 * TypeScript
 
 #### GitHub Stats
