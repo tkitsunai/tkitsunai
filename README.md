@@ -2,9 +2,9 @@
 
 #### I ❤...
 * Open Source
-* [Go](https://golang.org)
-* Software Architecture
+* Go
 * TypeScript
+* Software Architecture
 
 #### GitHub Stats
 
