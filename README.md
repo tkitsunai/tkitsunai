@@ -1,12 +1,29 @@
-### Hello 👋, I'm kits 👋
+<h1 align="center">tkitsunai</h1>
 
-#### I ❤...
-* Open Source
-* Go
-* TypeScript
-* Software Architecture
+```txt
+$ whoami
+Software Engineer
+```
 
-#### GitHub Stats
+```txt
+$ cat interests.txt
+- Open Source
+- Go
+- TypeScript
+- Software Architecture
+```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkitsunai&count_private=true&show_icons=true&hide=C%23,html,css,javascript)
-![tkitsunai's github stats](https://github-readme-stats.vercel.app/api?username=tkitsunai&show_icons=true&count_private=true&line_height=40)
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+## Metrics
+
+<div align="center">
+
+![GitHub metrics](./github-metrics.svg)
+
+</div>
