@@ -32,6 +32,4 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 4
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_visibility: public
+          plugin_activity: no
